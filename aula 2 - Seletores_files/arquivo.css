@@ -22,7 +22,7 @@ p {
 input[type="nome"] {
 
     width: 300px;
-    background-color: rgb(201, 241, 127);
+    background-color: rgb(127, 205, 241);
 }
 
 input[type="email"] {
