@@ -1,0 +1,30 @@
+* {
+    background-color: antiquewhite;
+    padding: 0;
+
+}
+
+h1 {
+
+    color: blue;
+    font-size: 1em;
+
+}
+
+#coluna1 {
+    background-color: blueviolet;
+    width: 300px;
+    height: 200px;
+    float: left;
+
+}
+
+#coluna2 {
+
+    background-color: brown;
+    width: 400px;
+    height: 200px;
+    float: left;
+    padding-left: 30px;
+
+}
