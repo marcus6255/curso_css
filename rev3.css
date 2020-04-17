@@ -1,0 +1,22 @@
+* {
+
+    margin: 0;
+    background-color: aquamarine;
+
+}
+
+
+h1 {
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: orangered;
+    margin: 60px 40px 20px 10%;
+
+}
+
+p {
+    font-size: 14px;
+    color: blue;
+    margin-left: 10%;
+
+}
